@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" role="img" aria-label="Northwind logo">
+  <rect width="180" height="48" rx="14" fill="none"/>
+  <path d="M22 34V14h5l12 12V14h6v20h-5L28 22v12h-6Z" fill="#111"/>
+  <path d="M62 14h8l4 11 4-11h8l-8 20h-8L62 14Z" fill="#408F4E"/>
+  <text x="96" y="31" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8" fill="#111">NORTH</text>
+</svg>

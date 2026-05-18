@@ -1,0 +1,8 @@
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Wellness Studio logo</title>
+  <rect width="180" height="80" rx="20" fill="#111111"/>
+  <circle cx="58" cy="40" r="23" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M58 58C58 43 64 32 78 26" stroke="#408F4E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58 58C56 44 49 34 38 29" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M103 31H147M103 41H134M103 51H151" stroke="#D8D8D8" stroke-width="2" stroke-linecap="round"/>
+</svg>

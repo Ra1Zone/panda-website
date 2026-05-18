@@ -1,0 +1,8 @@
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Beauty Clinic logo</title>
+  <rect width="180" height="80" rx="20" fill="#111111"/>
+  <path d="M56 58C44 54 36 45 36 35C36 25 44 18 55 18C66 18 74 25 74 35C74 45 67 54 56 58Z" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M55 58C57 42 62 32 73 25" stroke="#408F4E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M49 34C53 31 58 31 62 34" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M103 31H149M103 41H136M103 51H145" stroke="#D8D8D8" stroke-width="2" stroke-linecap="round"/>
+</svg>
