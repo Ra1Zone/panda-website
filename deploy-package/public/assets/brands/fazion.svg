@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" role="img" aria-label="Fazion logo">
+  <rect x="20" y="14" width="28" height="20" rx="10" fill="#111"/>
+  <rect x="30" y="14" width="28" height="20" rx="10" fill="#408F4E"/>
+  <text x="72" y="31" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="2.1" fill="#111">FAZION</text>
+</svg>

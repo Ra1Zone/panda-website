@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" role="img" aria-label="Noir logo">
+  <rect x="22" y="12" width="28" height="24" rx="12" fill="#111"/>
+  <circle cx="36" cy="24" r="6" fill="#408F4E"/>
+  <text x="70" y="31" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="3" fill="#111">NOIR</text>
+</svg>

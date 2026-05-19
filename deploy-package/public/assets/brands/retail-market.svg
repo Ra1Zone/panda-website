@@ -1,0 +1,8 @@
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Retail Market logo</title>
+  <rect width="180" height="80" rx="20" fill="#111111"/>
+  <path d="M38 32H78L74 60H42L38 32Z" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M48 32C48 23 52 18 58 18C64 18 68 23 68 32" stroke="#408F4E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M48 44H68" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M102 31H149M102 41H137M102 51H145" stroke="#D8D8D8" stroke-width="2" stroke-linecap="round"/>
+</svg>

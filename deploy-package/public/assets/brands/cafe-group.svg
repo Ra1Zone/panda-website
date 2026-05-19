@@ -1,0 +1,8 @@
+<svg width="180" height="80" viewBox="0 0 180 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Cafe Group logo</title>
+  <rect width="180" height="80" rx="20" fill="#111111"/>
+  <path d="M42 29H76V44C76 54 69 60 59 60H56C46 60 39 54 39 44V32C39 30 40 29 42 29Z" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M76 35H82C87 35 90 38 90 42C90 47 86 50 80 50H76" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M48 20C45 16 46 13 50 10M58 20C55 16 56 13 60 10M68 20C65 16 66 13 70 10" stroke="#408F4E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M106 31H145M106 41H133M106 51H151" stroke="#D8D8D8" stroke-width="2" stroke-linecap="round"/>
+</svg>
