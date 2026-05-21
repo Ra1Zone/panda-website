@@ -10,15 +10,8 @@ import { cn } from "@/lib/utils";
 import { useTheme } from "@/theme/ThemeProvider";
 
 const Logo = ({ className }: { className?: string }) => (
-  <Link href="/" className={cn("group flex items-center gap-3", className)} aria-label="Panda Marketing home">
-    <span className="relative inline-flex h-10 w-10 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-[0_12px_34px_hsl(var(--primary)/0.24)] transition-transform duration-300 group-hover:scale-105">
-      <span className="absolute inset-1 rounded-full border border-white/30" />
-      <span className="text-[11px] font-bold tracking-tight">P</span>
-    </span>
-    <span className="leading-none">
-      <span className="block text-base font-bold tracking-tight">Panda</span>
-      <span className="mt-1 hidden text-[9px] font-bold uppercase tracking-[0.28em] text-primary/75 sm:block">Marketing</span>
-    </span>
+  <Link href="/" className={cn("group flex items-center", className)} aria-label="Panda Marketing home">
+    <img src="/assets/panda-logo-full.svg" alt="Panda Marketing Agency" className="h-14 w-auto transition-transform duration-300 group-hover:scale-105" />
   </Link>
 );
 
@@ -234,9 +227,8 @@ const Footer = () => {
     <footer className="border-t border-white/10 bg-[#070707] text-foreground">
       <div className="container-x grid gap-10 py-12 text-center sm:text-start md:grid-cols-4 md:gap-12 md:py-20">
         <div className="md:col-span-2">
-          <Link href="/" className="inline-flex items-center gap-3">
-            <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm font-bold">P</span>
-            <span className="text-lg font-bold">Panda</span>
+          <Link href="/" className="inline-flex items-center">
+            <img src="/assets/panda-logo-full.svg" alt="Panda Marketing Agency" className="h-12 w-auto" />
           </Link>
           <p className="mx-auto mt-4 max-w-sm text-base leading-relaxed text-muted-foreground sm:mx-0 md:mt-5 md:text-lg">{t("footer.tag")}</p>
         </div>
